@@ -1,0 +1,2 @@
+# Distributed Client/Server
+In the early 2000's [Seti@Home](https://en.wikipedia.org/wiki/SETI@home) was popular and represented a distributed client/server architecture.  This project was an exploration into the challenges of such a project.  The underlying problem to solve was very simple, but expandable - identify prime numbers.  Commerically [United Devices](https://en.wikipedia.org/wiki/United_Devices) attempted to make a business model using an architecture similar to Seti@Home.

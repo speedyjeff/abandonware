@@ -1,0 +1,2 @@
+# Goldbach Conjecture
+[Goldbach Conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture) states that every even number is the sum of 2 primes.  Proving or disproving this was a million dollar problem.  These are some of the scripts for tinkering with this problem (clearly did not solve anything).

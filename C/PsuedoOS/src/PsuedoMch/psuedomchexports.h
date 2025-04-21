@@ -1,0 +1,8 @@
+
+#include <windows.h>
+
+VOID    _WND_PUTCHAR(CHAR c);
+CHAR    _WND_GETCHAR();
+VOID    _WND_MOVECURSEND();
+VOID    _WND_CLEARSREEN();
+HRESULT _WND_BREAKPOINT();
